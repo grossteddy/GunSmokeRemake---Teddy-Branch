@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: ef15b17eb585c5247bc586d22b038781
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Fb Balata Eng
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 685d2d25156947a448e9c7a82bfa5d0f, type: 3}
+  - {fileID: 12800000, guid: 6b422636743b67c48a39b919e0041667, type: 3}
+  - {fileID: 12800000, guid: 65eb41d108ea07b48b3d16479f2d408d, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

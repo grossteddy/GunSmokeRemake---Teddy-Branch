@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: f2e4e4328f1764b1586615ea5e0b8d97
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Fb MatadorEnHeb
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: a036aa84e14384eb784bc5239d1cac65, type: 3}
+  - {fileID: 12800000, guid: a128a5493172b4446b7c3724b2f98bfc, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
